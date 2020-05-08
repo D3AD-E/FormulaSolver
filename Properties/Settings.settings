@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FormulaSolver.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="he" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.055e-34</Value>
+    </Setting>
+    <Setting Name="mo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9.11e-31</Value>
+    </Setting>
+    <Setting Name="q" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.602e-19</Value>
+    </Setting>
+    <Setting Name="kb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.381e-23</Value>
+    </Setting>
+    <Setting Name="ep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8.854e-12</Value>
+    </Setting>
+    <Setting Name="c" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3e8</Value>
+    </Setting>
+    <Setting Name="a" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.602e-19</Value>
+    </Setting>
+    <Setting Name="h" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6.626e-34</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
